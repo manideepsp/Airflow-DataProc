@@ -1,0 +1,44 @@
+[2024-11-19T11:39:43.416+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-19T11:39:43.431+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dynamic_upload_to_gcs.create_upload_tasks manual__2024-11-19T11:39:39.872674+00:00 [queued]>
+[2024-11-19T11:39:43.440+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dynamic_upload_to_gcs.create_upload_tasks manual__2024-11-19T11:39:39.872674+00:00 [queued]>
+[2024-11-19T11:39:43.441+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-11-19T11:39:43.482+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): create_upload_tasks> on 2024-11-19 11:39:39.872674+00:00
+[2024-11-19T11:39:43.488+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=740) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-11-19T11:39:43.490+0000] {standard_task_runner.py:72} INFO - Started process 741 to run task
+[2024-11-19T11:39:43.490+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dynamic_upload_to_gcs', 'create_upload_tasks', 'manual__2024-11-19T11:39:39.872674+00:00', '--job-id', '43', '--raw', '--subdir', 'DAGS_FOLDER/dynamic_upload_to_gcs.py', '--cfg-path', '/tmp/tmpfyaac1ie']
+[2024-11-19T11:39:43.493+0000] {standard_task_runner.py:105} INFO - Job 43: Subtask create_upload_tasks
+[2024-11-19T11:39:43.538+0000] {task_command.py:467} INFO - Running <TaskInstance: dynamic_upload_to_gcs.create_upload_tasks manual__2024-11-19T11:39:39.872674+00:00 [running]> on host 2906cd519180
+[2024-11-19T11:39:43.653+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='dynamic_upload_to_gcs' AIRFLOW_CTX_TASK_ID='create_upload_tasks' AIRFLOW_CTX_EXECUTION_DATE='2024-11-19T11:39:39.872674+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-19T11:39:39.872674+00:00'
+[2024-11-19T11:39:43.655+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-19T11:39:43.680+0000] {baseoperator.py:405} WARNING - LocalFilesystemToGCSOperator.execute cannot be called outside TaskInstance!
+[2024-11-19T11:39:43.691+0000] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-11-19T11:39:43.697+0000] {base.py:84} INFO - Retrieving connection 'google_cloud_default'
+[2024-11-19T11:39:44.614+0000] {gcs.py:560} INFO - File /opt/***/local-data/data_dictionary 1.csv uploaded to data_dictionary 1.csv in hospitaldata0101 bucket
+[2024-11-19T11:39:44.616+0000] {baseoperator.py:405} WARNING - LocalFilesystemToGCSOperator.execute cannot be called outside TaskInstance!
+[2024-11-19T11:39:44.623+0000] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-11-19T11:39:44.624+0000] {base.py:84} INFO - Retrieving connection 'google_cloud_default'
+[2024-11-19T11:39:48.465+0000] {gcs.py:560} INFO - File /opt/***/local-data/encounters 1.csv uploaded to encounters 1.csv in hospitaldata0101 bucket
+[2024-11-19T11:39:48.467+0000] {baseoperator.py:405} WARNING - LocalFilesystemToGCSOperator.execute cannot be called outside TaskInstance!
+[2024-11-19T11:39:48.473+0000] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-11-19T11:39:48.474+0000] {base.py:84} INFO - Retrieving connection 'google_cloud_default'
+[2024-11-19T11:39:49.121+0000] {gcs.py:560} INFO - File /opt/***/local-data/organizations 1.csv uploaded to organizations 1.csv in hospitaldata0101 bucket
+[2024-11-19T11:39:49.122+0000] {baseoperator.py:405} WARNING - LocalFilesystemToGCSOperator.execute cannot be called outside TaskInstance!
+[2024-11-19T11:39:49.128+0000] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-11-19T11:39:49.129+0000] {base.py:84} INFO - Retrieving connection 'google_cloud_default'
+[2024-11-19T11:39:49.848+0000] {gcs.py:560} INFO - File /opt/***/local-data/patients 1.csv uploaded to patients 1.csv in hospitaldata0101 bucket
+[2024-11-19T11:39:49.849+0000] {baseoperator.py:405} WARNING - LocalFilesystemToGCSOperator.execute cannot be called outside TaskInstance!
+[2024-11-19T11:39:49.854+0000] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-11-19T11:39:49.856+0000] {base.py:84} INFO - Retrieving connection 'google_cloud_default'
+[2024-11-19T11:39:50.424+0000] {gcs.py:560} INFO - File /opt/***/local-data/payers 1.csv uploaded to payers 1.csv in hospitaldata0101 bucket
+[2024-11-19T11:39:50.425+0000] {baseoperator.py:405} WARNING - LocalFilesystemToGCSOperator.execute cannot be called outside TaskInstance!
+[2024-11-19T11:39:50.432+0000] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-11-19T11:39:50.433+0000] {base.py:84} INFO - Retrieving connection 'google_cloud_default'
+[2024-11-19T11:39:54.563+0000] {gcs.py:560} INFO - File /opt/***/local-data/procedures 1.csv uploaded to procedures 1.csv in hospitaldata0101 bucket
+[2024-11-19T11:39:54.564+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-19T11:39:54.575+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-19T11:39:54.576+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=dynamic_upload_to_gcs, task_id=create_upload_tasks, run_id=manual__2024-11-19T11:39:39.872674+00:00, execution_date=20241119T113939, start_date=20241119T113943, end_date=20241119T113954
+[2024-11-19T11:39:54.655+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-19T11:39:54.671+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-19T11:39:54.674+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

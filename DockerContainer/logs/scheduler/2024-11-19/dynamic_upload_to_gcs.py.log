@@ -1,0 +1,224 @@
+[2024-11-19T11:37:50.761+0000] {processor.py:186} INFO - Started process (PID=707) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:37:50.762+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:37:50.764+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:37:50.764+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:37:50.785+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:37:50.949+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:37:50.948+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:37:50.963+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:37:50.963+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:37:50.991+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.239 seconds
+[2024-11-19T11:38:21.239+0000] {processor.py:186} INFO - Started process (PID=714) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:38:21.240+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:38:21.241+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:38:21.241+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:38:21.258+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:38:21.286+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:38:21.285+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:38:21.304+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:38:21.303+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:38:21.325+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.093 seconds
+[2024-11-19T11:38:51.570+0000] {processor.py:186} INFO - Started process (PID=721) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:38:51.571+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:38:51.573+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:38:51.573+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:38:51.600+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:38:51.634+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:38:51.634+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:38:51.657+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:38:51.657+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:38:51.687+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.129 seconds
+[2024-11-19T11:39:21.804+0000] {processor.py:186} INFO - Started process (PID=728) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:39:21.805+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:39:21.806+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:39:21.806+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:39:21.822+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:39:21.847+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:39:21.847+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:39:21.866+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:39:21.866+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:39:21.891+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.094 seconds
+[2024-11-19T11:39:52.143+0000] {processor.py:186} INFO - Started process (PID=735) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:39:52.145+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:39:52.147+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:39:52.147+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:39:52.167+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:39:52.191+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:39:52.191+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:39:52.212+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:39:52.212+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:39:52.277+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.142 seconds
+[2024-11-19T11:40:22.369+0000] {processor.py:186} INFO - Started process (PID=742) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:40:22.370+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:40:22.372+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:40:22.371+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:40:22.387+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:40:22.408+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:40:22.408+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:40:22.426+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:40:22.426+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:40:22.466+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.107 seconds
+[2024-11-19T11:40:52.730+0000] {processor.py:186} INFO - Started process (PID=749) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:40:52.732+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:40:52.733+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:40:52.733+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:40:52.754+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:40:52.784+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:40:52.783+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:40:52.809+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:40:52.809+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:40:52.837+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.115 seconds
+[2024-11-19T11:41:23.296+0000] {processor.py:186} INFO - Started process (PID=756) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:41:23.418+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:41:23.420+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:41:23.420+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:41:23.570+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:41:23.602+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:41:23.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:41:23.627+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:41:23.626+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:41:23.663+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.374 seconds
+[2024-11-19T11:41:53.940+0000] {processor.py:186} INFO - Started process (PID=763) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:41:53.941+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:41:53.943+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:41:53.942+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:41:53.962+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:41:53.984+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:41:53.984+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:41:54.001+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:41:54.000+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:41:54.024+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.091 seconds
+[2024-11-19T11:42:24.225+0000] {processor.py:186} INFO - Started process (PID=770) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:42:24.226+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:42:24.227+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:42:24.227+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:42:24.243+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:42:24.263+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:42:24.263+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:42:24.280+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:42:24.280+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:42:24.301+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.082 seconds
+[2024-11-19T11:42:54.477+0000] {processor.py:186} INFO - Started process (PID=777) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:42:54.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:42:54.480+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:42:54.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:42:54.496+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:42:54.518+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:42:54.518+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:42:54.538+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:42:54.538+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:42:54.562+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.094 seconds
+[2024-11-19T11:43:24.755+0000] {processor.py:186} INFO - Started process (PID=784) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:43:24.756+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:43:24.758+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:43:24.757+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:43:24.776+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:43:24.799+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:43:24.798+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:43:24.817+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:43:24.816+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:43:24.854+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.106 seconds
+[2024-11-19T11:43:55.007+0000] {processor.py:186} INFO - Started process (PID=791) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:43:55.008+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:43:55.011+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:43:55.010+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:43:55.030+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:43:55.055+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:43:55.054+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:43:55.073+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:43:55.072+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:43:55.108+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.110 seconds
+[2024-11-19T11:44:25.266+0000] {processor.py:186} INFO - Started process (PID=798) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:44:25.267+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:44:25.269+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:44:25.268+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:44:25.285+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:44:25.312+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:44:25.312+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:44:25.331+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:44:25.331+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:44:25.367+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.107 seconds
+[2024-11-19T11:44:55.529+0000] {processor.py:186} INFO - Started process (PID=805) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:44:55.530+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:44:55.532+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:44:55.532+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:44:55.547+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:44:55.570+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:44:55.570+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:44:55.588+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:44:55.588+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:44:55.634+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.111 seconds
+[2024-11-19T11:45:25.772+0000] {processor.py:186} INFO - Started process (PID=813) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:45:25.774+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:45:25.775+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:45:25.775+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:45:25.790+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:45:25.813+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:45:25.813+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:45:25.830+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:45:25.830+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:45:25.869+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.103 seconds
+[2024-11-19T11:45:56.042+0000] {processor.py:186} INFO - Started process (PID=820) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:45:56.043+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:45:56.045+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:45:56.044+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:45:56.063+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:45:56.087+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:45:56.087+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:45:56.105+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:45:56.104+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:45:56.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.111 seconds
+[2024-11-19T11:46:26.318+0000] {processor.py:186} INFO - Started process (PID=827) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:46:26.320+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:46:26.322+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:46:26.321+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:46:26.338+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:46:26.361+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:46:26.360+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:46:26.377+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:46:26.377+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:46:26.398+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.086 seconds
+[2024-11-19T11:46:56.612+0000] {processor.py:186} INFO - Started process (PID=834) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:46:56.613+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:46:56.615+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:46:56.615+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:46:56.637+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:46:56.668+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:46:56.668+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:46:56.689+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:46:56.689+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:46:56.711+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.110 seconds
+[2024-11-19T11:47:26.842+0000] {processor.py:186} INFO - Started process (PID=841) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:47:26.843+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:47:26.844+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:47:26.844+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:47:26.861+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:47:26.885+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:47:26.885+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:47:26.902+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:47:26.902+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:47:26.932+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.097 seconds
+[2024-11-19T11:47:57.172+0000] {processor.py:186} INFO - Started process (PID=848) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:47:57.173+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:47:57.176+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:47:57.175+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:47:57.192+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:47:57.215+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:47:57.215+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:47:57.233+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:47:57.233+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:47:57.255+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.090 seconds
+[2024-11-19T11:48:27.388+0000] {processor.py:186} INFO - Started process (PID=855) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:48:27.389+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:48:27.390+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:48:27.390+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:48:27.407+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:48:27.431+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:48:27.431+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:48:27.448+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:48:27.448+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:48:27.473+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.092 seconds
+[2024-11-19T11:48:57.673+0000] {processor.py:186} INFO - Started process (PID=862) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:48:57.674+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:48:57.676+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:48:57.676+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:48:57.695+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:48:57.722+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:48:57.721+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:48:57.750+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:48:57.749+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:48:57.782+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.116 seconds
+[2024-11-19T11:49:27.901+0000] {processor.py:186} INFO - Started process (PID=869) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:49:27.902+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:49:27.904+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:49:27.903+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:49:27.937+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:49:27.974+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:49:27.974+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:49:27.996+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:49:27.996+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:49:28.026+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.137 seconds
+[2024-11-19T11:49:58.205+0000] {processor.py:186} INFO - Started process (PID=877) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:49:58.207+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:49:58.208+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:49:58.208+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:49:58.230+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:49:58.257+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:49:58.257+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:49:58.277+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:49:58.277+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:49:58.306+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.111 seconds
+[2024-11-19T11:50:28.451+0000] {processor.py:186} INFO - Started process (PID=884) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:50:28.452+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:50:28.454+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:50:28.453+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:50:28.472+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:50:28.496+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:50:28.496+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:50:28.516+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:50:28.516+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:50:28.543+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.099 seconds
+[2024-11-19T11:50:58.744+0000] {processor.py:186} INFO - Started process (PID=892) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:50:58.745+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:50:58.746+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:50:58.746+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:50:58.763+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:50:58.786+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:50:58.786+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:50:58.805+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:50:58.805+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:50:58.844+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.106 seconds
+[2024-11-19T11:51:28.978+0000] {processor.py:186} INFO - Started process (PID=899) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:51:28.979+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:51:28.980+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:51:28.980+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:51:28.996+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:51:29.019+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:51:29.019+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:51:29.036+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:51:29.036+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:51:29.068+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.096 seconds
+[2024-11-19T11:51:59.431+0000] {processor.py:186} INFO - Started process (PID=907) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:51:59.434+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:51:59.439+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:51:59.437+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:51:59.521+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:51:59.589+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:51:59.589+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:51:59.638+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:51:59.637+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:51:59.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.254 seconds
+[2024-11-19T11:52:29.907+0000] {processor.py:186} INFO - Started process (PID=914) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:52:29.908+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:52:29.910+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:52:29.910+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:52:29.930+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:52:29.957+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:52:29.957+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:52:29.979+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:52:29.978+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:52:30.022+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.123 seconds
+[2024-11-19T11:53:00.131+0000] {processor.py:186} INFO - Started process (PID=921) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:53:00.132+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:53:00.134+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:53:00.133+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:53:00.150+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:53:00.194+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:53:00.194+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:53:00.211+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:53:00.211+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:53:00.231+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.106 seconds
+[2024-11-19T11:53:30.366+0000] {processor.py:186} INFO - Started process (PID=928) to work on /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:53:30.367+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dynamic_upload_to_gcs.py for tasks to queue
+[2024-11-19T11:53:30.369+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:53:30.368+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:53:30.385+0000] {processor.py:925} INFO - DAG(s) 'dynamic_upload_to_gcs' retrieved from /opt/airflow/dags/dynamic_upload_to_gcs.py
+[2024-11-19T11:53:30.407+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:53:30.407+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-19T11:53:30.425+0000] {logging_mixin.py:190} INFO - [2024-11-19T11:53:30.425+0000] {dag.py:4180} INFO - Setting next_dagrun for dynamic_upload_to_gcs to None, run_after=None
+[2024-11-19T11:53:30.446+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dynamic_upload_to_gcs.py took 0.086 seconds

@@ -1,0 +1,126 @@
+[2024-11-19T08:42:16.713+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2024-11-19T08:42:16.714+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2024-11-19T08:42:16.715+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-11-19T08:42:16.715+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T08:42:16.720+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T08:47:17.684+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T08:47:17.687+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T08:52:18.601+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T08:52:18.607+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T08:57:19.451+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T08:57:19.455+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T09:02:20.337+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T09:02:20.358+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T09:07:21.111+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T09:07:21.119+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T09:12:21.968+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T09:12:22.019+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T09:17:22.041+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T09:17:22.063+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T09:22:22.406+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T09:22:22.415+0000] {manager.py:824} INFO - There are 0 files in /opt/airflow/dags
+[2024-11-19T09:23:28.152+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2024-11-19T10:45:08.866+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2024-11-19T10:45:09.157+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2024-11-19T10:45:09.158+0000] {manager.py:485} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-11-19T10:45:09.158+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T10:45:09.186+0000] {manager.py:824} INFO - There are 1 files in /opt/airflow/dags
+[2024-11-19T10:45:10.859+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py     66  0.02s             0           0                                                   0
+================================================================================
+[2024-11-19T10:45:41.130+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py                           1           0  0.49s           2024-11-19T10:45:11                      43
+================================================================================
+[2024-11-19T10:46:11.893+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py     80  0.01s             1           0  0.12s           2024-11-19T10:45:41                      10
+================================================================================
+[2024-11-19T10:46:42.388+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py                           1           0  0.53s           2024-11-19T10:46:12                      10
+================================================================================
+[2024-11-19T10:47:12.869+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py     94  0.00s             1           0  0.11s           2024-11-19T10:46:42                      10
+================================================================================
+[2024-11-19T10:47:43.208+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py    101  0.00s             1           0  0.13s           2024-11-19T10:47:12                      10
+================================================================================
+[2024-11-19T10:48:13.470+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py    108  0.00s             1           0  0.11s           2024-11-19T10:47:43                      10
+================================================================================
+[2024-11-19T10:48:43.740+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py    115  0.01s             1           0  0.15s           2024-11-19T10:48:13                      10
+================================================================================
+[2024-11-19T10:49:14.044+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py    122  0.00s             1           0  0.16s           2024-11-19T10:48:43                      10
+================================================================================
+[2024-11-19T10:49:44.381+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py    129  0.00s             1           0  0.11s           2024-11-19T10:49:14                      10
+================================================================================
+[2024-11-19T10:50:09.605+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-19T10:50:09.622+0000] {manager.py:824} INFO - There are 1 files in /opt/airflow/dags
+[2024-11-19T10:50:14.688+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py    136  0.00s             1           0  0.14s           2024-11-19T10:49:44                      10
+================================================================================
+[2024-11-19T10:50:44.956+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/upload_to_gcs.py    143  0.00s             1           0  0.11s           2024-11-19T10:50:14                      10
+================================================================================
+[2024-11-19T10:51:13.357+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
